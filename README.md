@@ -1,6 +1,6 @@
 # fsociety
 
-🇧🇷 Brazil Language
+🇧🇷 Brazilian Language
 
 Este repositório foi desenvolvido com fins exclusivamente educacionais, com o objetivo de demonstrar conceitos, práticas e implementações relacionadas ao tema abordado no projeto.
 
