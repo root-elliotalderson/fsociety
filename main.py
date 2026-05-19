@@ -1,12 +1,14 @@
 import sys
+import os
 from datetime import datetime
 
 # ========================
 # UTILIDADES
 # ========================
 
+
 def limpar_tela():
-    print("\n" * 50)
+    os.system('cls' if os.name == 'nt' else 'clear')
 
 
 def ler_int(mensagem):
