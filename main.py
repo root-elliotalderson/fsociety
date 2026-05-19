@@ -8,7 +8,7 @@ from datetime import datetime
 
 
 def limpar_tela():
-    os.system('cls' if os.name == 'nt' else 'clear')
+    os.system('clear')
 
 
 def ler_int(mensagem):
